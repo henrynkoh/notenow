@@ -1,5 +1,4 @@
 import SwiftUI
-import AVFoundation
 
 struct VoiceNotesView: View {
     @State private var isRecording = false
